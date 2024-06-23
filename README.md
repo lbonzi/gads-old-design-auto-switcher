@@ -1,5 +1,5 @@
 # gads-old-design-auto-switcher
-Easily switch back to the old GAds design or let the extension do it for you automatically every time. Sadly it will work till August 30, 2024. 
+Easily switch back to the old Google Ads design or let the extension do it for you automatically every time. Sadly it will work till August 30, 2024. 
 
 
 ### Download LINK:  [Switch to Old Design AUTO - Multilanguage.zip](https://github.com/user-attachments/files/15944538/Switch.to.Old.Design.AUTO.-.Multilanguage.zip)
@@ -56,5 +56,3 @@ For updates or support, please contact me on LinkedIn.
 - [Lorenzo Bonzi on LinkedIn](https://www.linkedin.com/in/lorenzo-bonzi/)
 
 _We will not give up until August 30, 2024._
-
-Enjoy a more familiar Google Ads experience with Google Ads Old Design Switcher!
