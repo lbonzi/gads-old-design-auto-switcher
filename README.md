@@ -1,6 +1,9 @@
 # gads-old-design-auto-switcher
 Easily switch back to the old GAds design or let the extension do it for you automatically every time. Sadly it will work till August 30, 2024. 
 
+![image](https://github.com/lbonzi/gads-old-design-auto-switcher/assets/70207789/ec232663-6b17-4950-a0f8-2a3ae7948ed1)
+
+
 ## Supported Languages
 
 The extension currently supports the following languages for interface interaction:
