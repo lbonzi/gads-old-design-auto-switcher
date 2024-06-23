@@ -24,7 +24,7 @@ Follow these steps to install the extension:
 Download the source code zip file for the extension. Since Chrome blocks direct downloads of `.crx` files, you need to download the source code and unzip the repository.
 
 ### Step 2: Open Chrome Extensions
-Open your Chrome browser and navigate to: chrome://extensions in your Google Chrome browser.Enable Developer Mode:
+Open your Chrome browser and navigate to: `chrome://extensions` in your Google Chrome browser.Enable Developer Mode:
 
 ### Step 3: Enable Developer Mode
 Enable _Developer Mode_ by toggling the switch in the top-right corner. Once enabled, you will see additional options.
