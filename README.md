@@ -8,7 +8,7 @@ Easily switch back to the old Google Ads design or let the extension do it for y
 
 ## Supported Languages
 
-The extension currently supports the following languages for interface interaction:
+The extension currently supports the following languages for the Google Ads Interface:
 
 - **English** (English)
 - **Italian** (Italiano)
