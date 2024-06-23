@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "GAds Old Design Auto Switcher",
+"description": "Easily switch back to the old GAds design or let the extension do it for you automatically every time. Sadly it will work till August 30, 2024. Language Supported: English, Italian, Portuguese, Spanish, German, French, Dutch.",
+"version": "1.0",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://ads.google.com/aw/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://ads.google.com/aw/*"],
+      "js": ["auto_switch.js"]
+    }
+  ],
+  "action": {
+    "default_popup": "popup.html",
+"default_icon": "icon128.png"
+
+  },
+"author": "Lorenzo Bonzi",
+"homepage_url": "https://www.linkedin.com/in/lorenzo-bonzi/"
+}
