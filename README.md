@@ -21,19 +21,22 @@ The extension currently supports the following languages for interface interacti
 Follow these steps to install the extension:
 
 ### Step 1: Download
-Download the source code zip file for the extension. Since Chrome blocks direct downloads of `.crx` files, you need to download the source code and unzip the repository.
+Download the source code zip file for the extension and unzip the repository.
 
 ### Step 2: Open Chrome Extensions
-Open your Chrome browser and navigate to: `chrome://extensions` in your Google Chrome browser.Enable Developer Mode:
+Open your Chrome browser and navigate to: `chrome://extensions` in your Google Chrome browser.
 
 ### Step 3: Enable Developer Mode
 Enable _Developer Mode_ by toggling the switch in the top-right corner. Once enabled, you will see additional options.
 
 ### Step 4: Load Unpacked Extension
-Click on the `Load unpacked` button. A file dialog will open. Navigate to the location where you unzipped the extension files and select the main folder of the extension. The extension should now appear in the list of installed extensions on the Extensions page.
+Click on the `Load unpacked` button. A file dialog will open. Navigate to the location where you unzipped the extension files and select the main folder you have just extracted. The extension should now appear in the list of installed extensions on the Extensions page.
+
+![image](https://github.com/lbonzi/gads-old-design-auto-switcher/assets/70207789/f4f1642d-57cc-4461-9b8f-882f0aefe1e6)
 
 ### Step 5: Verify Installation
 Verify that the extension is properly installed by locating the extension icon in the Chrome toolbar. You can also check the Extensions page to ensure it is installed and enabled.
+
 
 ## Configuration
 Once the extension is installed, you can configure it to work with your preferred language and automation settings:
