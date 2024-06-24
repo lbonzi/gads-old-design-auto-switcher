@@ -23,16 +23,18 @@ The extension currently supports the following languages for the Google Ads Inte
 Follow these steps to install the extension:
 
 ### Step 1: Download
-Download the source code zip file for the extension and unzip the repository.
+Download the source code zip file for the extension and `unzip` the repository.
 
 ### Step 2: Open Chrome Extensions
 Open your Chrome browser and navigate to: `chrome://extensions` in your Google Chrome browser.
 
 ### Step 3: Enable Developer Mode
-Enable _Developer Mode_ by toggling the switch in the top-right corner. Once enabled, you will see additional options.
+`Enable` _Developer Mode_ by toggling the switch in the top-right corner. Once enabled, you will see additional options.
 
 ### Step 4: Load Unpacked Extension
-Click on the `Load unpacked` button. A file dialog will open. Navigate to the location where you unzipped the extension files and select the main folder you have just extracted. The extension should now appear in the list of installed extensions on the Extensions page.
+Click on the `Load unpacked` button. A file dialog will open. Navigate to the location where you unzipped the extension files and `select` the **main folder** you have just unzipped. 
+
+The extension should now appear in the list of installed extensions on the Extensions page.
 
 ![image](https://github.com/lbonzi/gads-old-design-auto-switcher/assets/70207789/f4f1642d-57cc-4461-9b8f-882f0aefe1e6)
 
