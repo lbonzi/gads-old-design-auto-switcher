@@ -4,7 +4,8 @@
 
 GAds Swiss Knife is a powerful Chrome extension designed to automate the task of dismissing all recommendations in your Google Ads account with just one click. The extension supports multiple languages and provides a fun and engaging experience by playing music and displaying fireworks while the recommendations are being dismissed.
 
-### Download LINK: 
+### Download LINK: [GAds Swiss Knife V1.1.zip](https://github.com/user-attachments/files/16789232/GAds.Swiss.Knife.V1.1.zip)
+
  <img width="200" alt="Screenshot 2024-08-28 alle 22 34 15" src="https://github.com/user-attachments/assets/036185ed-2f04-4d07-8ebb-c78c4282363e"> 
 
 ## Features
